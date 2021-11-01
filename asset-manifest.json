@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://karthi-r-a.github.io/csb-xuuvk/static/css/main.078c1175.chunk.css",
+    "main.js": "https://karthi-r-a.github.io/csb-xuuvk/static/js/main.81e72249.chunk.js",
+    "main.js.map": "https://karthi-r-a.github.io/csb-xuuvk/static/js/main.81e72249.chunk.js.map",
+    "runtime-main.js": "https://karthi-r-a.github.io/csb-xuuvk/static/js/runtime-main.ef5fedfe.js",
+    "runtime-main.js.map": "https://karthi-r-a.github.io/csb-xuuvk/static/js/runtime-main.ef5fedfe.js.map",
+    "static/js/2.bf8244cb.chunk.js": "https://karthi-r-a.github.io/csb-xuuvk/static/js/2.bf8244cb.chunk.js",
+    "static/js/2.bf8244cb.chunk.js.map": "https://karthi-r-a.github.io/csb-xuuvk/static/js/2.bf8244cb.chunk.js.map",
+    "index.html": "https://karthi-r-a.github.io/csb-xuuvk/index.html",
+    "static/css/main.078c1175.chunk.css.map": "https://karthi-r-a.github.io/csb-xuuvk/static/css/main.078c1175.chunk.css.map",
+    "static/js/2.bf8244cb.chunk.js.LICENSE.txt": "https://karthi-r-a.github.io/csb-xuuvk/static/js/2.bf8244cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5fedfe.js",
+    "static/js/2.bf8244cb.chunk.js",
+    "static/css/main.078c1175.chunk.css",
+    "static/js/main.81e72249.chunk.js"
+  ]
+}
